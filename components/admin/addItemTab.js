@@ -50,7 +50,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function AddItems() {
+export default function AddItemTab() {
   const classes = useStyles();
   const [value, setValue] = React.useState(0);
 
