@@ -1,7 +1,7 @@
 import { Container, makeStyles } from "@material-ui/core";
 import React from "react";
 
-import AddItemTab from "../../components/admin/AddItemTab";
+import AddItemTab from "../../components/admin/addItemTab";
 import DashboardLayout from "../../layouts/dashboardLayout";
 import { menuOption, routes } from "../../router/adminRoutes";
 
